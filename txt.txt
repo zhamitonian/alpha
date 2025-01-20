@@ -1,0 +1,19 @@
+\begin{frame}
+   \frametitle{Introduction}
+	\begin{itemuize}
+	\item measure the cross section of $e^+ e^- \to \phi K^+ K^-$ via ISR
+	\item structure near 2.2324
+	      \includegraphics[width=\textwidth]{/home/wangz/Work/ISRphiKK/offline/Draw/output/p_theta_distribution/phikp_cos_theta_cuts.eps}
+	\item $M(K^+K^-)$
+\end{frame}
+
+\begin{frame}
+   \frametitle{Selection Criteria}
+\end{frame}
+
+\begin{frame}
+  \frametitle{M(\phi)'s distribution}
+    \centering
+    \includegraphics[width=\textwidth]{/home/wangz/Work/ISRphiKK/offline/Draw/output/M_phi.eps}
+    \sigma = 0.009868GeV 
+\end{frame}

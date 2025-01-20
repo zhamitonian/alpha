@@ -1,0 +1,849 @@
+
+Decay trees and their respective initial-final states:
+
+rowNo:  1	iDcyTr:  79	iDcyIFSts:  34	nEtr:  8787	nCEtr:  8787
+  0  &  e+ e- --> K+ K- phi  &  -1
+  1  &  phi --> K+ K-  &  0
+( e+ e- ---> K+ K+ K- K- )
+
+rowNo:  2	iDcyTr:  80	iDcyIFSts:  34	nEtr:  3015	nCEtr:  11802
+  0  &  e+ e- --> phi phi  &  -1
+  1  &  phi --> K+ K-  &  0
+  2  &  phi --> K+ K-  &  0
+( e+ e- ---> K+ K+ K- K- )
+
+rowNo:  3	iDcyTr:  5	iDcyIFSts:  5	nEtr:  1441	nCEtr:  13243
+  0  &  e+ e- --> pi- anti-K*0 K+  &  -1
+  1  &  anti-K*0 --> pi+ K-  &  0
+( e+ e- ---> pi+ pi- K+ K- )
+
+rowNo:  4	iDcyTr:  81	iDcyIFSts:  34	nEtr:  1428	nCEtr:  14671
+  0  &  e+ e- --> K+ K+ K- K-  &  -1
+( e+ e- ---> K+ K+ K- K- )
+
+rowNo:  5	iDcyTr:  15	iDcyIFSts:  5	nEtr:  1381	nCEtr:  16052
+  0  &  e+ e- --> pi+ K*0 K-  &  -1
+  1  &  K*0 --> pi- K+  &  0
+( e+ e- ---> pi+ pi- K+ K- )
+
+rowNo:  6	iDcyTr:  83	iDcyIFSts:  5	nEtr:  883	nCEtr:  16935
+  0  &  e+ e- --> rho0 K+ K-  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+( e+ e- ---> pi+ pi- K+ K- )
+
+rowNo:  7	iDcyTr:  6	iDcyIFSts:  5	nEtr:  654	nCEtr:  17589
+  0  &  e+ e- --> pi+ pi- K+ K-  &  -1
+( e+ e- ---> pi+ pi- K+ K- )
+
+rowNo:  8	iDcyTr:  9	iDcyIFSts:  5	nEtr:  503	nCEtr:  18092
+  0  &  e+ e- --> K*0 anti-K*0  &  -1
+  1  &  K*0 --> pi- K+  &  0
+  2  &  anti-K*0 --> pi+ K-  &  0
+( e+ e- ---> pi+ pi- K+ K- )
+
+rowNo:  9	iDcyTr:  13	iDcyIFSts:  11	nEtr:  318	nCEtr:  18410
+  0  &  e+ e- --> rho0 pi+ pi-  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+( e+ e- ---> pi+ pi+ pi- pi- )
+
+rowNo:  10	iDcyTr:  135	iDcyIFSts:  43	nEtr:  308	nCEtr:  18718
+  0  &  e+ e- --> pi0 K+ K- phi  &  -1
+  1  &  phi --> K+ K-  &  0
+( e+ e- ---> pi0 K+ K+ K- K- )
+
+rowNo:  11	iDcyTr:  14	iDcyIFSts:  10	nEtr:  257	nCEtr:  18975
+  0  &  e+ e- --> pi+ pi- p+ anti-p-  &  -1
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  12	iDcyTr:  90	iDcyIFSts:  38	nEtr:  189	nCEtr:  19164
+  0  &  e+ e- --> K- p+ anti-Lambda0  &  -1
+  1  &  anti-Lambda0 --> pi+ anti-p-  &  0
+( e+ e- ---> pi+ K- p+ anti-p- )
+
+rowNo:  13	iDcyTr:  84	iDcyIFSts:  35	nEtr:  182	nCEtr:  19346
+  0  &  e+ e- --> K+ anti-p- Lambda0  &  -1
+  1  &  Lambda0 --> pi- p+  &  0
+( e+ e- ---> pi- K+ p+ anti-p- )
+
+rowNo:  14	iDcyTr:  171	iDcyIFSts:  10	nEtr:  164	nCEtr:  19510
+  0  &  e+ e- --> rho0 p+ anti-p-  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  15	iDcyTr:  12	iDcyIFSts:  10	nEtr:  145	nCEtr:  19655
+  0  &  e+ e- --> pi- anti-p- Delta++  &  -1
+  1  &  Delta++ --> pi+ p+  &  0
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  16	iDcyTr:  46	iDcyIFSts:  10	nEtr:  134	nCEtr:  19789
+  0  &  e+ e- --> pi+ p+ anti-Delta--  &  -1
+  1  &  anti-Delta-- --> pi- anti-p-  &  0
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  17	iDcyTr:  87	iDcyIFSts:  2	nEtr:  101	nCEtr:  19890
+  0  &  e+ e- --> K+ K*-  &  -1
+  1  &  K*- --> pi- anti-K0  &  0
+  2  &  anti-K0 --> K_S0  &  1
+  3  &  K_S0 --> pi+ pi-  &  2
+( e+ e- ---> pi+ pi- pi- K+ )
+
+rowNo:  18	iDcyTr:  139	iDcyIFSts:  43	nEtr:  100	nCEtr:  19990
+  0  &  e+ e- --> pi0 K+ K+ K- K-  &  -1
+( e+ e- ---> pi0 K+ K+ K- K- )
+
+rowNo:  19	iDcyTr:  85	iDcyIFSts:  36	nEtr:  91	nCEtr:  20081
+  0  &  e+ e- --> K+ K- p+ anti-p-  &  -1
+( e+ e- ---> K+ K- p+ anti-p- )
+
+rowNo:  20	iDcyTr:  82	iDcyIFSts:  3	nEtr:  90	nCEtr:  20171
+  0  &  e+ e- --> K- K*+  &  -1
+  1  &  K*+ --> pi+ K0  &  0
+  2  &  K0 --> K_S0  &  1
+  3  &  K_S0 --> pi+ pi-  &  2
+( e+ e- ---> pi+ pi+ pi- K- )
+
+rowNo:  21	iDcyTr:  88	iDcyIFSts:  4	nEtr:  84	nCEtr:  20255
+  0  &  e+ e- --> omega K+ K-  &  -1
+  1  &  omega --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  22	iDcyTr:  16	iDcyIFSts:  3	nEtr:  80	nCEtr:  20335
+  0  &  e+ e- --> K0 anti-K*0  &  -1
+  1  &  K0 --> K_S0  &  0
+  2  &  anti-K*0 --> pi+ K-  &  0
+  3  &  K_S0 --> pi+ pi-  &  1
+( e+ e- ---> pi+ pi+ pi- K- )
+
+rowNo:  23	iDcyTr:  2	iDcyIFSts:  2	nEtr:  75	nCEtr:  20410
+  0  &  e+ e- --> anti-K0 K*0  &  -1
+  1  &  anti-K0 --> K_S0  &  0
+  2  &  K*0 --> pi- K+  &  0
+  3  &  K_S0 --> pi+ pi-  &  1
+( e+ e- ---> pi+ pi- pi- K+ )
+
+rowNo:  24	iDcyTr:  23	iDcyIFSts:  8	nEtr:  71	nCEtr:  20481
+  0  &  e+ e- --> pi+ rho-  &  -1
+  1  &  rho- --> pi0 pi-  &  0
+( e+ e- ---> pi0 pi+ pi- )
+
+rowNo:  25	iDcyTr:  44	iDcyIFSts:  2	nEtr:  61	nCEtr:  20542
+  0  &  e+ e- --> pi- anti-K0 K+  &  -1
+  1  &  anti-K0 --> K_S0  &  0
+  2  &  K_S0 --> pi+ pi-  &  1
+( e+ e- ---> pi+ pi- pi- K+ )
+
+rowNo:  26	iDcyTr:  3	iDcyIFSts:  3	nEtr:  61	nCEtr:  20603
+  0  &  e+ e- --> pi+ K0 K-  &  -1
+  1  &  K0 --> K_S0  &  0
+  2  &  K_S0 --> pi+ pi-  &  1
+( e+ e- ---> pi+ pi+ pi- K- )
+
+rowNo:  27	iDcyTr:  43	iDcyIFSts:  21	nEtr:  59	nCEtr:  20662
+  0  &  e+ e- --> pi+ pi- omega  &  -1
+  1  &  omega --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi+ pi- pi- )
+
+rowNo:  28	iDcyTr:  10	iDcyIFSts:  8	nEtr:  58	nCEtr:  20720
+  0  &  e+ e- --> pi- rho+  &  -1
+  1  &  rho+ --> pi0 pi+  &  0
+( e+ e- ---> pi0 pi+ pi- )
+
+rowNo:  29	iDcyTr:  32	iDcyIFSts:  11	nEtr:  54	nCEtr:  20774
+  0  &  e+ e- --> pi+ pi+ pi- pi-  &  -1
+( e+ e- ---> pi+ pi+ pi- pi- )
+
+rowNo:  30	iDcyTr:  91	iDcyIFSts:  39	nEtr:  40	nCEtr:  20814
+  0  &  e+ e- --> K- K*+  &  -1
+  1  &  K*+ --> pi0 K+  &  0
+( e+ e- ---> pi0 K+ K- )
+
+rowNo:  31	iDcyTr:  49	iDcyIFSts:  11	nEtr:  37	nCEtr:  20851
+  0  &  e+ e- --> rho0 rho0  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+  2  &  rho0 --> pi+ pi-  &  0
+( e+ e- ---> pi+ pi+ pi- pi- )
+
+rowNo:  32	iDcyTr:  59	iDcyIFSts:  4	nEtr:  36	nCEtr:  20887
+  0  &  e+ e- --> pi0 pi+ pi- K+ K-  &  -1
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  33	iDcyTr:  96	iDcyIFSts:  39	nEtr:  35	nCEtr:  20922
+  0  &  e+ e- --> K+ K*-  &  -1
+  1  &  K*- --> pi0 K-  &  0
+( e+ e- ---> pi0 K+ K- )
+
+rowNo:  34	iDcyTr:  169	iDcyIFSts:  10	nEtr:  34	nCEtr:  20956
+  0  &  e+ e- --> Delta++ anti-Delta--  &  -1
+  1  &  Delta++ --> pi+ p+  &  0
+  2  &  anti-Delta-- --> pi- anti-p-  &  0
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  35	iDcyTr:  27	iDcyIFSts:  4	nEtr:  31	nCEtr:  20987
+  0  &  e+ e- --> pi0 pi+ K*0 K-  &  -1
+  1  &  K*0 --> pi- K+  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  36	iDcyTr:  173	iDcyIFSts:  4	nEtr:  30	nCEtr:  21017
+  0  &  e+ e- --> pi0 rho0 K+ K-  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  37	iDcyTr:  17	iDcyIFSts:  4	nEtr:  29	nCEtr:  21046
+  0  &  e+ e- --> pi0 pi- anti-K*0 K+  &  -1
+  1  &  anti-K*0 --> pi+ K-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  38	iDcyTr:  25	iDcyIFSts:  8	nEtr:  25	nCEtr:  21071
+  0  &  e+ e- --> pi0 rho0  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi- )
+
+rowNo:  39	iDcyTr:  97	iDcyIFSts:  39	nEtr:  25	nCEtr:  21096
+  0  &  e+ e- --> pi0 K+ K-  &  -1
+( e+ e- ---> pi0 K+ K- )
+
+rowNo:  40	iDcyTr:  67	iDcyIFSts:  18	nEtr:  23	nCEtr:  21119
+  0  &  e+ e- --> pi0 pi+ pi- p+ anti-p-  &  -1
+( e+ e- ---> pi0 pi+ pi- p+ anti-p- )
+
+rowNo:  41	iDcyTr:  40	iDcyIFSts:  21	nEtr:  22	nCEtr:  21141
+  0  &  e+ e- --> rho0 omega  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+  2  &  omega --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi+ pi- pi- )
+
+rowNo:  42	iDcyTr:  170	iDcyIFSts:  18	nEtr:  21	nCEtr:  21162
+  0  &  e+ e- --> pi0 rho0 p+ anti-p-  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi- p+ anti-p- )
+
+rowNo:  43	iDcyTr:  172	iDcyIFSts:  10	nEtr:  19	nCEtr:  21181
+  0  &  e+ e- --> pi+ Delta0 anti-p-  &  -1
+  1  &  Delta0 --> pi- p+  &  0
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  44	iDcyTr:  24	iDcyIFSts:  10	nEtr:  18	nCEtr:  21199
+  0  &  e+ e- --> pi- anti-Delta0 p+  &  -1
+  1  &  anti-Delta0 --> pi+ anti-p-  &  0
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  45	iDcyTr:  206	iDcyIFSts:  18	nEtr:  17	nCEtr:  21216
+  0  &  e+ e- --> pi0 pi- anti-p- Delta++  &  -1
+  1  &  Delta++ --> pi+ p+  &  0
+( e+ e- ---> pi0 pi+ pi- p+ anti-p- )
+
+rowNo:  46	iDcyTr:  75	iDcyIFSts:  24	nEtr:  15	nCEtr:  21231
+  0  &  e+ e- --> pi- rho+  &  -1
+  1  &  rho+ --> pi0 pi+  &  0
+  2  &  pi0 --> e+ e-  &  1
+( e+ e- ---> e+ e- pi+ pi- )
+
+rowNo:  47	iDcyTr:  180	iDcyIFSts:  75	nEtr:  15	nCEtr:  21246
+  0  &  e+ e- --> pi0 K+ K- p+ anti-p-  &  -1
+( e+ e- ---> pi0 K+ K- p+ anti-p- )
+
+rowNo:  48	iDcyTr:  199	iDcyIFSts:  18	nEtr:  14	nCEtr:  21260
+  0  &  e+ e- --> omega p+ anti-p-  &  -1
+  1  &  omega --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi- p+ anti-p- )
+
+rowNo:  49	iDcyTr:  34	iDcyIFSts:  4	nEtr:  13	nCEtr:  21273
+  0  &  e+ e- --> rho+ K*0 K-  &  -1
+  1  &  rho+ --> pi0 pi+  &  0
+  2  &  K*0 --> pi- K+  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  50	iDcyTr:  52	iDcyIFSts:  21	nEtr:  13	nCEtr:  21286
+  0  &  e+ e- --> pi0 rho0 pi+ pi-  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi+ pi- pi- )
+
+rowNo:  51	iDcyTr:  92	iDcyIFSts:  40	nEtr:  12	nCEtr:  21298
+  0  &  e+ e- --> K+ K-  &  -1
+( e+ e- ---> K+ K- )
+
+rowNo:  52	iDcyTr:  101	iDcyIFSts:  43	nEtr:  12	nCEtr:  21310
+  0  &  e+ e- --> K+ K*- phi  &  -1
+  1  &  K*- --> pi0 K-  &  0
+  2  &  phi --> K+ K-  &  0
+( e+ e- ---> pi0 K+ K+ K- K- )
+
+rowNo:  53	iDcyTr:  124	iDcyIFSts:  4	nEtr:  12	nCEtr:  21322
+  0  &  e+ e- --> eta K+ K-  &  -1
+  1  &  eta --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  54	iDcyTr:  112	iDcyIFSts:  5	nEtr:  11	nCEtr:  21333
+  0  &  e+ e- --> omega K+ K-  &  -1
+  1  &  omega --> pi+ pi-  &  0
+( e+ e- ---> pi+ pi- K+ K- )
+
+rowNo:  55	iDcyTr:  192	iDcyIFSts:  79	nEtr:  11	nCEtr:  21344
+  0  &  e+ e- --> pi0 p+ anti-p-  &  -1
+( e+ e- ---> pi0 p+ anti-p- )
+
+rowNo:  56	iDcyTr:  195	iDcyIFSts:  18	nEtr:  11	nCEtr:  21355
+  0  &  e+ e- --> pi0 pi+ p+ anti-Delta--  &  -1
+  1  &  anti-Delta-- --> pi- anti-p-  &  0
+( e+ e- ---> pi0 pi+ pi- p+ anti-p- )
+
+rowNo:  57	iDcyTr:  38	iDcyIFSts:  19	nEtr:  10	nCEtr:  21365
+  0  &  e+ e- --> pi0 omega  &  -1
+  1  &  omega --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi0 pi+ pi- )
+
+rowNo:  58	iDcyTr:  31	iDcyIFSts:  8	nEtr:  10	nCEtr:  21375
+  0  &  e+ e- --> pi0 pi+ pi-  &  -1
+( e+ e- ---> pi0 pi+ pi- )
+
+rowNo:  59	iDcyTr:  106	iDcyIFSts:  43	nEtr:  10	nCEtr:  21385
+  0  &  e+ e- --> K- K*+ phi  &  -1
+  1  &  K*+ --> pi0 K+  &  0
+  2  &  phi --> K+ K-  &  0
+( e+ e- ---> pi0 K+ K+ K- K- )
+
+rowNo:  60	iDcyTr:  110	iDcyIFSts:  48	nEtr:  10	nCEtr:  21395
+  0  &  e+ e- --> K+ K*-  &  -1
+  1  &  K*- --> pi0 K-  &  0
+  2  &  pi0 --> e+ e-  &  1
+( e+ e- ---> e+ e- K+ K- )
+
+rowNo:  61	iDcyTr:  42	iDcyIFSts:  23	nEtr:  9	nCEtr:  21404
+  0  &  e+ e- --> pi+ K0 K- phi  &  -1
+  1  &  K0 --> K_L0  &  0
+  2  &  phi --> K+ K-  &  0
+( e+ e- ---> K_L0 pi+ K+ K- K- )
+
+rowNo:  62	iDcyTr:  62	iDcyIFSts:  21	nEtr:  9	nCEtr:  21413
+  0  &  e+ e- --> rho0 pi- rho+  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+  2  &  rho+ --> pi0 pi+  &  0
+( e+ e- ---> pi0 pi+ pi+ pi- pi- )
+
+rowNo:  63	iDcyTr:  98	iDcyIFSts:  4	nEtr:  9	nCEtr:  21422
+  0  &  e+ e- --> pi+ rho- K+ K-  &  -1
+  1  &  rho- --> pi0 pi-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  64	iDcyTr:  121	iDcyIFSts:  11	nEtr:  9	nCEtr:  21431
+  0  &  e+ e- --> K0 anti-K0  &  -1
+  1  &  K0 --> K_S0  &  0
+  2  &  anti-K0 --> K_S0  &  0
+  3  &  K_S0 --> pi+ pi-  &  1
+  4  &  K_S0 --> pi+ pi-  &  2
+( e+ e- ---> pi+ pi+ pi- pi- )
+
+rowNo:  65	iDcyTr:  41	iDcyIFSts:  22	nEtr:  8	nCEtr:  21439
+  0  &  e+ e- --> pi+ pi-  &  -1
+( e+ e- ---> pi+ pi- )
+
+rowNo:  66	iDcyTr:  86	iDcyIFSts:  10	nEtr:  8	nCEtr:  21447
+  0  &  e+ e- --> Lambda0 anti-Lambda0  &  -1
+  1  &  Lambda0 --> pi- p+  &  0
+  2  &  anti-Lambda0 --> pi+ anti-p-  &  0
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  67	iDcyTr:  33	iDcyIFSts:  9	nEtr:  8	nCEtr:  21455
+  0  &  e+ e- --> anti-K0 K*0 K+ K-  &  -1
+  1  &  anti-K0 --> K_L0  &  0
+  2  &  K*0 --> pi- K+  &  0
+( e+ e- ---> K_L0 pi- K+ K+ K- )
+
+rowNo:  68	iDcyTr:  4	iDcyIFSts:  4	nEtr:  8	nCEtr:  21463
+  0  &  e+ e- --> rho- anti-K*0 K+  &  -1
+  1  &  rho- --> pi0 pi-  &  0
+  2  &  anti-K*0 --> pi+ K-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  69	iDcyTr:  64	iDcyIFSts:  4	nEtr:  8	nCEtr:  21471
+  0  &  e+ e- --> pi- rho+ K+ K-  &  -1
+  1  &  rho+ --> pi0 pi+  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  70	iDcyTr:  111	iDcyIFSts:  4	nEtr:  8	nCEtr:  21479
+  0  &  e+ e- --> pi+ K*0 K*-  &  -1
+  1  &  K*0 --> pi- K+  &  0
+  2  &  K*- --> pi0 K-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  71	iDcyTr:  151	iDcyIFSts:  65	nEtr:  8	nCEtr:  21487
+  0  &  e+ e- --> eta K+ K- phi  &  -1
+  1  &  eta --> gamma gamma  &  0
+  2  &  phi --> K+ K-  &  0
+( e+ e- ---> K+ K+ K- K- gamma gamma )
+
+rowNo:  72	iDcyTr:  184	iDcyIFSts:  77	nEtr:  8	nCEtr:  21495
+  0  &  e+ e- --> pi0 K+ anti-p- Lambda0  &  -1
+  1  &  Lambda0 --> pi- p+  &  0
+( e+ e- ---> pi0 pi- K+ p+ anti-p- )
+
+rowNo:  73	iDcyTr:  55	iDcyIFSts:  24	nEtr:  7	nCEtr:  21502
+  0  &  e+ e- --> pi+ rho-  &  -1
+  1  &  rho- --> pi0 pi-  &  0
+  2  &  pi0 --> e+ e-  &  1
+( e+ e- ---> e+ e- pi+ pi- )
+
+rowNo:  74	iDcyTr:  37	iDcyIFSts:  20	nEtr:  7	nCEtr:  21509
+  0  &  e+ e- --> pi+ K0 K- phi  &  -1
+  1  &  K0 --> K_S0  &  0
+  2  &  phi --> K+ K-  &  0
+  3  &  K_S0 --> pi0 pi0  &  1
+( e+ e- ---> pi0 pi0 pi+ K+ K- K- )
+
+rowNo:  75	iDcyTr:  116	iDcyIFSts:  5	nEtr:  7	nCEtr:  21516
+  0  &  e+ e- --> eta K+ K-  &  -1
+  1  &  eta --> pi+ pi-  &  0
+( e+ e- ---> pi+ pi- K+ K- )
+
+rowNo:  76	iDcyTr:  182	iDcyIFSts:  21	nEtr:  7	nCEtr:  21523
+  0  &  e+ e- --> pi+ pi- eta  &  -1
+  1  &  eta --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi+ pi- pi- )
+
+rowNo:  77	iDcyTr:  28	iDcyIFSts:  13	nEtr:  6	nCEtr:  21529
+  0  &  e+ e- --> pi- anti-K0 K+ phi  &  -1
+  1  &  anti-K0 --> K_S0  &  0
+  2  &  phi --> K+ K-  &  0
+  3  &  K_S0 --> pi0 pi0  &  1
+( e+ e- ---> pi0 pi0 pi- K+ K+ K- )
+
+rowNo:  78	iDcyTr:  11	iDcyIFSts:  9	nEtr:  6	nCEtr:  21535
+  0  &  e+ e- --> pi- anti-K0 K+ phi  &  -1
+  1  &  anti-K0 --> K_L0  &  0
+  2  &  phi --> K+ K-  &  0
+( e+ e- ---> K_L0 pi- K+ K+ K- )
+
+rowNo:  79	iDcyTr:  93	iDcyIFSts:  4	nEtr:  6	nCEtr:  21541
+  0  &  e+ e- --> eta phi  &  -1
+  1  &  eta --> pi0 pi+ pi-  &  0
+  2  &  phi --> K+ K-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  80	iDcyTr:  137	iDcyIFSts:  48	nEtr:  6	nCEtr:  21547
+  0  &  e+ e- --> K- K*+  &  -1
+  1  &  K*+ --> pi0 K+  &  0
+  2  &  pi0 --> e+ e-  &  1
+( e+ e- ---> e+ e- K+ K- )
+
+rowNo:  81	iDcyTr:  156	iDcyIFSts:  52	nEtr:  6	nCEtr:  21553
+  0  &  e+ e- --> K+ K- eta'  &  -1
+  1  &  eta' --> rho0 gamma  &  0
+  2  &  rho0 --> pi+ pi-  &  1
+( e+ e- ---> pi+ pi- K+ K- gamma )
+
+rowNo:  82	iDcyTr:  58	iDcyIFSts:  30	nEtr:  5	nCEtr:  21558
+  0  &  e+ e- --> pi0 pi0  &  -1
+( e+ e- ---> pi0 pi0 )
+
+rowNo:  83	iDcyTr:  72	iDcyIFSts:  4	nEtr:  5	nCEtr:  21563
+  0  &  e+ e- --> pi- anti-K*0 K*+  &  -1
+  1  &  anti-K*0 --> pi+ K-  &  0
+  2  &  K*+ --> pi0 K+  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  84	iDcyTr:  35	iDcyIFSts:  13	nEtr:  5	nCEtr:  21568
+  0  &  e+ e- --> anti-K0 K*0 K+ K-  &  -1
+  1  &  anti-K0 --> K_S0  &  0
+  2  &  K*0 --> pi- K+  &  0
+  3  &  K_S0 --> pi0 pi0  &  1
+( e+ e- ---> pi0 pi0 pi- K+ K+ K- )
+
+rowNo:  85	iDcyTr:  21	iDcyIFSts:  10	nEtr:  5	nCEtr:  21573
+  0  &  e+ e- --> Delta0 anti-Delta0  &  -1
+  1  &  Delta0 --> pi- p+  &  0
+  2  &  anti-Delta0 --> pi+ anti-p-  &  0
+( e+ e- ---> pi+ pi- p+ anti-p- )
+
+rowNo:  86	iDcyTr:  30	iDcyIFSts:  18	nEtr:  5	nCEtr:  21578
+  0  &  e+ e- --> pi0 pi+ Delta0 anti-p-  &  -1
+  1  &  Delta0 --> pi- p+  &  0
+( e+ e- ---> pi0 pi+ pi- p+ anti-p- )
+
+rowNo:  87	iDcyTr:  114	iDcyIFSts:  4	nEtr:  5	nCEtr:  21583
+  0  &  e+ e- --> rho0 K- K*+  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+  2  &  K*+ --> pi0 K+  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  88	iDcyTr:  174	iDcyIFSts:  43	nEtr:  5	nCEtr:  21588
+  0  &  e+ e- --> K+ K+ K- K*-  &  -1
+  1  &  K*- --> pi0 K-  &  0
+( e+ e- ---> pi0 K+ K+ K- K- )
+
+rowNo:  89	iDcyTr:  175	iDcyIFSts:  48	nEtr:  5	nCEtr:  21593
+  0  &  e+ e- --> pi0 K+ K-  &  -1
+  1  &  pi0 --> e+ e-  &  0
+( e+ e- ---> e+ e- K+ K- )
+
+rowNo:  90	iDcyTr:  181	iDcyIFSts:  12	nEtr:  5	nCEtr:  21598
+  0  &  e+ e- --> pi+ rho- omega  &  -1
+  1  &  rho- --> pi0 pi-  &  0
+  2  &  omega --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi0 pi+ pi+ pi- pi- )
+
+rowNo:  91	iDcyTr:  220	iDcyIFSts:  4	nEtr:  5	nCEtr:  21603
+  0  &  e+ e- --> rho0 K+ K*-  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+  2  &  K*- --> pi0 K-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  92	iDcyTr:  76	iDcyIFSts:  21	nEtr:  4	nCEtr:  21607
+  0  &  e+ e- --> rho0 eta  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+  2  &  eta --> pi0 pi+ pi-  &  0
+( e+ e- ---> pi0 pi+ pi+ pi- pi- )
+
+rowNo:  93	iDcyTr:  60	iDcyIFSts:  11	nEtr:  4	nCEtr:  21611
+  0  &  e+ e- --> pi+ pi- omega  &  -1
+  1  &  omega --> pi+ pi-  &  0
+( e+ e- ---> pi+ pi+ pi- pi- )
+
+rowNo:  94	iDcyTr:  70	iDcyIFSts:  18	nEtr:  4	nCEtr:  21615
+  0  &  e+ e- --> pi+ rho- p+ anti-p-  &  -1
+  1  &  rho- --> pi0 pi-  &  0
+( e+ e- ---> pi0 pi+ pi- p+ anti-p- )
+
+rowNo:  95	iDcyTr:  45	iDcyIFSts:  4	nEtr:  4	nCEtr:  21619
+  0  &  e+ e- --> pi0 K*0 anti-K*0  &  -1
+  1  &  K*0 --> pi- K+  &  0
+  2  &  anti-K*0 --> pi+ K-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  96	iDcyTr:  74	iDcyIFSts:  21	nEtr:  4	nCEtr:  21623
+  0  &  e+ e- --> rho0 pi+ rho-  &  -1
+  1  &  rho0 --> pi+ pi-  &  0
+  2  &  rho- --> pi0 pi-  &  0
+( e+ e- ---> pi0 pi+ pi+ pi- pi- )
+
+rowNo:  97	iDcyTr:  51	iDcyIFSts:  4	nEtr:  4	nCEtr:  21627
+  0  &  e+ e- --> pi+ pi- K+ K*-  &  -1
+  1  &  K*- --> pi0 K-  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  98	iDcyTr:  117	iDcyIFSts:  4	nEtr:  4	nCEtr:  21631
+  0  &  e+ e- --> pi+ pi- K- K*+  &  -1
+  1  &  K*+ --> pi0 K+  &  0
+( e+ e- ---> pi0 pi+ pi- K+ K- )
+
+rowNo:  99	iDcyTr:  118	iDcyIFSts:  5	nEtr:  4	nCEtr:  21635
+  0  &  e+ e- --> eta phi  &  -1
+  1  &  eta --> pi+ pi-  &  0
+  2  &  phi --> K+ K-  &  0
+( e+ e- ---> pi+ pi- K+ K- )
+
+rowNo:  100	iDcyTr:  120	iDcyIFSts:  23	nEtr:  4	nCEtr:  21639
+  0  &  e+ e- --> K0 anti-K*0 K+ K-  &  -1
+  1  &  K0 --> K_L0  &  0
+  2  &  anti-K*0 --> pi+ K-  &  0
+( e+ e- ---> K_L0 pi+ K+ K- K- )
+
+rowNo:  rest	iDcyTr:  ---	iDcyIFSts:  ---	nEtr:  292	nCEtr:  21931
+  e+ e- --> others (216 in total)
+( e+ e- ---> corresponding to others )
+
+
+Decay initial-final states:
+
+rowNo:  1	iDcyIFSts:  34	nEtr:  13230	nCEtr:  13230
+  e+ e- ---> K+ K+ K- K-
+
+rowNo:  2	iDcyIFSts:  5	nEtr:  4884	nCEtr:  18114
+  e+ e- ---> pi+ pi- K+ K-
+
+rowNo:  3	iDcyIFSts:  10	nEtr:  787	nCEtr:  18901
+  e+ e- ---> pi+ pi- p+ anti-p-
+
+rowNo:  4	iDcyIFSts:  43	nEtr:  438	nCEtr:  19339
+  e+ e- ---> pi0 K+ K+ K- K-
+
+rowNo:  5	iDcyIFSts:  11	nEtr:  428	nCEtr:  19767
+  e+ e- ---> pi+ pi+ pi- pi-
+
+rowNo:  6	iDcyIFSts:  4	nEtr:  312	nCEtr:  20079
+  e+ e- ---> pi0 pi+ pi- K+ K-
+
+rowNo:  7	iDcyIFSts:  2	nEtr:  237	nCEtr:  20316
+  e+ e- ---> pi+ pi- pi- K+
+
+rowNo:  8	iDcyIFSts:  3	nEtr:  231	nCEtr:  20547
+  e+ e- ---> pi+ pi+ pi- K-
+
+rowNo:  9	iDcyIFSts:  38	nEtr:  189	nCEtr:  20736
+  e+ e- ---> pi+ K- p+ anti-p-
+
+rowNo:  10	iDcyIFSts:  35	nEtr:  182	nCEtr:  20918
+  e+ e- ---> pi- K+ p+ anti-p-
+
+rowNo:  11	iDcyIFSts:  8	nEtr:  164	nCEtr:  21082
+  e+ e- ---> pi0 pi+ pi-
+
+rowNo:  12	iDcyIFSts:  21	nEtr:  127	nCEtr:  21209
+  e+ e- ---> pi0 pi+ pi+ pi- pi-
+
+rowNo:  13	iDcyIFSts:  18	nEtr:  112	nCEtr:  21321
+  e+ e- ---> pi0 pi+ pi- p+ anti-p-
+
+rowNo:  14	iDcyIFSts:  39	nEtr:  100	nCEtr:  21421
+  e+ e- ---> pi0 K+ K-
+
+rowNo:  15	iDcyIFSts:  36	nEtr:  91	nCEtr:  21512
+  e+ e- ---> K+ K- p+ anti-p-
+
+rowNo:  16	iDcyIFSts:  32	nEtr:  27	nCEtr:  21539
+  e+ e- ---> pi0 pi0 pi+ pi- K+ K-
+
+rowNo:  17	iDcyIFSts:  24	nEtr:  26	nCEtr:  21565
+  e+ e- ---> e+ e- pi+ pi-
+
+rowNo:  18	iDcyIFSts:  48	nEtr:  23	nCEtr:  21588
+  e+ e- ---> e+ e- K+ K-
+
+rowNo:  19	iDcyIFSts:  12	nEtr:  21	nCEtr:  21609
+  e+ e- ---> pi0 pi0 pi+ pi+ pi- pi-
+
+rowNo:  20	iDcyIFSts:  23	nEtr:  17	nCEtr:  21626
+  e+ e- ---> K_L0 pi+ K+ K- K-
+
+rowNo:  21	iDcyIFSts:  75	nEtr:  16	nCEtr:  21642
+  e+ e- ---> pi0 K+ K- p+ anti-p-
+
+rowNo:  22	iDcyIFSts:  9	nEtr:  15	nCEtr:  21657
+  e+ e- ---> K_L0 pi- K+ K+ K-
+
+rowNo:  23	iDcyIFSts:  13	nEtr:  14	nCEtr:  21671
+  e+ e- ---> pi0 pi0 pi- K+ K+ K-
+
+rowNo:  24	iDcyIFSts:  19	nEtr:  14	nCEtr:  21685
+  e+ e- ---> pi0 pi0 pi+ pi-
+
+rowNo:  25	iDcyIFSts:  20	nEtr:  13	nCEtr:  21698
+  e+ e- ---> pi0 pi0 pi+ K+ K- K-
+
+rowNo:  26	iDcyIFSts:  40	nEtr:  12	nCEtr:  21710
+  e+ e- ---> K+ K-
+
+rowNo:  27	iDcyIFSts:  79	nEtr:  11	nCEtr:  21721
+  e+ e- ---> pi0 p+ anti-p-
+
+rowNo:  28	iDcyIFSts:  77	nEtr:  10	nCEtr:  21731
+  e+ e- ---> pi0 pi- K+ p+ anti-p-
+
+rowNo:  29	iDcyIFSts:  72	nEtr:  10	nCEtr:  21741
+  e+ e- ---> pi0 pi0 K+ K+ K- K-
+
+rowNo:  30	iDcyIFSts:  0	nEtr:  9	nCEtr:  21750
+  e+ e- ---> pi0 pi0 pi0 pi+ pi- K+ K-
+
+rowNo:  31	iDcyIFSts:  52	nEtr:  9	nCEtr:  21759
+  e+ e- ---> pi+ pi- K+ K- gamma
+
+rowNo:  32	iDcyIFSts:  59	nEtr:  8	nCEtr:  21767
+  e+ e- ---> pi0 pi+ K- p+ anti-p-
+
+rowNo:  33	iDcyIFSts:  65	nEtr:  8	nCEtr:  21775
+  e+ e- ---> K+ K+ K- K- gamma gamma
+
+rowNo:  34	iDcyIFSts:  22	nEtr:  8	nCEtr:  21783
+  e+ e- ---> pi+ pi-
+
+rowNo:  35	iDcyIFSts:  58	nEtr:  6	nCEtr:  21789
+  e+ e- ---> pi0 pi+ pi+ pi- K-
+
+rowNo:  36	iDcyIFSts:  81	nEtr:  6	nCEtr:  21795
+  e+ e- ---> pi0 pi0 pi+ pi- p+ anti-p-
+
+rowNo:  37	iDcyIFSts:  41	nEtr:  5	nCEtr:  21800
+  e+ e- ---> pi0 pi0 pi0 pi- K+ K+ K-
+
+rowNo:  38	iDcyIFSts:  30	nEtr:  5	nCEtr:  21805
+  e+ e- ---> pi0 pi0
+
+rowNo:  39	iDcyIFSts:  1	nEtr:  5	nCEtr:  21810
+  e+ e- ---> pi0 K_L0 pi+ K+ K- K-
+
+rowNo:  40	iDcyIFSts:  83	nEtr:  5	nCEtr:  21815
+  e+ e- ---> e+ e- pi0 pi+ pi-
+
+rowNo:  41	iDcyIFSts:  62	nEtr:  4	nCEtr:  21819
+  e+ e- ---> pi+ pi- pi- K+ p+ anti-p-
+
+rowNo:  42	iDcyIFSts:  17	nEtr:  4	nCEtr:  21823
+  e+ e- ---> pi+ pi- gamma gamma
+
+rowNo:  43	iDcyIFSts:  90	nEtr:  4	nCEtr:  21827
+  e+ e- ---> pi+ pi- p+ anti-p- gamma gamma
+
+rowNo:  44	iDcyIFSts:  27	nEtr:  3	nCEtr:  21830
+  e+ e- ---> pi0 pi0 pi0 pi+ pi- pi- K+
+
+rowNo:  45	iDcyIFSts:  54	nEtr:  3	nCEtr:  21833
+  e+ e- ---> pi0 pi+ pi- K+ K- gamma gamma
+
+rowNo:  46	iDcyIFSts:  47	nEtr:  3	nCEtr:  21836
+  e+ e- ---> K_L0 pi+ pi+ pi- K-
+
+rowNo:  47	iDcyIFSts:  74	nEtr:  3	nCEtr:  21839
+  e+ e- ---> pi0 pi0 pi0 K+ K+ K- K-
+
+rowNo:  48	iDcyIFSts:  16	nEtr:  3	nCEtr:  21842
+  e+ e- ---> pi0 pi+ pi- pi- K+
+
+rowNo:  49	iDcyIFSts:  26	nEtr:  2	nCEtr:  21844
+  e+ e- ---> pi- K+ K- anti-n0 p+
+
+rowNo:  50	iDcyIFSts:  71	nEtr:  2	nCEtr:  21846
+  e+ e- ---> pi+ pi- K+ K- gamma gamma
+
+rowNo:  51	iDcyIFSts:  33	nEtr:  2	nCEtr:  21848
+  e+ e- ---> pi0 pi+ pi+ pi- K+ K- K-
+
+rowNo:  52	iDcyIFSts:  49	nEtr:  2	nCEtr:  21850
+  e+ e- ---> pi+ pi+ pi- pi- K+ K-
+
+rowNo:  53	iDcyIFSts:  15	nEtr:  2	nCEtr:  21852
+  e+ e- ---> pi0 pi0 K_L0 pi+ pi+ pi- K-
+
+rowNo:  54	iDcyIFSts:  76	nEtr:  2	nCEtr:  21854
+  e+ e- ---> pi0 pi0 pi0 pi+ pi+ pi- pi-
+
+rowNo:  55	iDcyIFSts:  29	nEtr:  2	nCEtr:  21856
+  e+ e- ---> pi+ pi+ pi- pi- gamma
+
+rowNo:  56	iDcyIFSts:  42	nEtr:  2	nCEtr:  21858
+  e+ e- ---> pi0 pi0 pi0 pi+ pi+ pi- K-
+
+rowNo:  57	iDcyIFSts:  14	nEtr:  2	nCEtr:  21860
+  e+ e- ---> pi+ pi- pi- anti-n0 p+
+
+rowNo:  58	iDcyIFSts:  61	nEtr:  2	nCEtr:  21862
+  e+ e- ---> K_L0 pi- K+ p+ anti-p-
+
+rowNo:  59	iDcyIFSts:  45	nEtr:  2	nCEtr:  21864
+  e+ e- ---> pi0 pi+ pi- K- anti-n0 p+
+
+rowNo:  60	iDcyIFSts:  92	nEtr:  2	nCEtr:  21866
+  e+ e- ---> pi0 pi0 pi+ K-
+
+rowNo:  61	iDcyIFSts:  94	nEtr:  2	nCEtr:  21868
+  e+ e- ---> pi0 K+ K+ K- K- gamma gamma
+
+rowNo:  62	iDcyIFSts:  98	nEtr:  2	nCEtr:  21870
+  e+ e- ---> pi0 K_L0 pi+ pi+ pi- K-
+
+rowNo:  63	iDcyIFSts:  28	nEtr:  1	nCEtr:  21871
+  e+ e- ---> pi0 pi0 pi0 pi0 pi- K+ K+ K-
+
+rowNo:  64	iDcyIFSts:  63	nEtr:  1	nCEtr:  21872
+  e+ e- ---> pi0 pi0 K_L0 pi- K+ K+ K-
+
+rowNo:  65	iDcyIFSts:  64	nEtr:  1	nCEtr:  21873
+  e+ e- ---> pi0 pi+ pi- K+ K- gamma
+
+rowNo:  66	iDcyIFSts:  25	nEtr:  1	nCEtr:  21874
+  e+ e- ---> e+ nu_e pi- pi- K+
+
+rowNo:  67	iDcyIFSts:  66	nEtr:  1	nCEtr:  21875
+  e+ e- ---> e+ e- pi0 pi0 pi+ K+ K- K-
+
+rowNo:  68	iDcyIFSts:  67	nEtr:  1	nCEtr:  21876
+  e+ e- ---> e+ nu_e pi0 pi+ pi- K+ K- K-
+
+rowNo:  69	iDcyIFSts:  68	nEtr:  1	nCEtr:  21877
+  e+ e- ---> pi0 pi+ pi- K+ n0 anti-p- gamma
+
+rowNo:  70	iDcyIFSts:  69	nEtr:  1	nCEtr:  21878
+  e+ e- ---> pi+ pi+ pi- pi- gamma gamma
+
+rowNo:  71	iDcyIFSts:  70	nEtr:  1	nCEtr:  21879
+  e+ e- ---> pi0 pi0 pi- K+
+
+rowNo:  72	iDcyIFSts:  7	nEtr:  1	nCEtr:  21880
+  e+ e- ---> pi0 pi0 pi0 pi+ pi+ pi- pi- gamma gamma
+
+rowNo:  73	iDcyIFSts:  50	nEtr:  1	nCEtr:  21881
+  e+ e- ---> pi0 pi0 pi0 pi- K+ K+ K- gamma gamma
+
+rowNo:  74	iDcyIFSts:  73	nEtr:  1	nCEtr:  21882
+  e+ e- ---> e+ e- K+ K+ K- K-
+
+rowNo:  75	iDcyIFSts:  51	nEtr:  1	nCEtr:  21883
+  e+ e- ---> pi+ pi+ pi- pi- p+ anti-p-
+
+rowNo:  76	iDcyIFSts:  31	nEtr:  1	nCEtr:  21884
+  e+ e- ---> pi0 pi0 pi+ pi- pi- K+
+
+rowNo:  77	iDcyIFSts:  53	nEtr:  1	nCEtr:  21885
+  e+ e- ---> pi+ pi- pi- K+ K+ K-
+
+rowNo:  78	iDcyIFSts:  37	nEtr:  1	nCEtr:  21886
+  e+ e- ---> K+ K- gamma gamma
+
+rowNo:  79	iDcyIFSts:  78	nEtr:  1	nCEtr:  21887
+  e+ e- ---> pi0 pi0 pi+ pi+ pi- K-
+
+rowNo:  80	iDcyIFSts:  55	nEtr:  1	nCEtr:  21888
+  e+ e- ---> e- nu_e pi+ pi+ pi+ pi- K-
+
+rowNo:  81	iDcyIFSts:  80	nEtr:  1	nCEtr:  21889
+  e+ e- ---> pi0 K_L0 pi- K+ K+ K-
+
+rowNo:  82	iDcyIFSts:  56	nEtr:  1	nCEtr:  21890
+  e+ e- ---> pi0 pi0 K_L0 K+ K+ K- K-
+
+rowNo:  83	iDcyIFSts:  82	nEtr:  1	nCEtr:  21891
+  e+ e- ---> pi0 pi+ pi- pi- K+ K+ K-
+
+rowNo:  84	iDcyIFSts:  57	nEtr:  1	nCEtr:  21892
+  e+ e- ---> K_L0 pi+ K- p+ anti-p-
+
+rowNo:  85	iDcyIFSts:  84	nEtr:  1	nCEtr:  21893
+  e+ e- ---> pi+ pi+ pi- pi- gamma gamma gamma
+
+rowNo:  86	iDcyIFSts:  85	nEtr:  1	nCEtr:  21894
+  e+ e- ---> e+ e- p+ anti-p-
+
+rowNo:  87	iDcyIFSts:  86	nEtr:  1	nCEtr:  21895
+  e+ e- ---> pi0 pi+ pi+ pi- pi- p+ anti-p- gamma gamma
+
+rowNo:  88	iDcyIFSts:  87	nEtr:  1	nCEtr:  21896
+  e+ e- ---> pi0 pi0 pi0 pi+ pi-
+
+rowNo:  89	iDcyIFSts:  88	nEtr:  1	nCEtr:  21897
+  e+ e- ---> pi0 pi0 K+ K+ K- K- gamma
+
+rowNo:  90	iDcyIFSts:  89	nEtr:  1	nCEtr:  21898
+  e+ e- ---> pi0 pi0 K_L0 pi+ K+ K- K-
+
+rowNo:  91	iDcyIFSts:  44	nEtr:  1	nCEtr:  21899
+  e+ e- ---> K_L0 pi+ K-
+
+rowNo:  92	iDcyIFSts:  91	nEtr:  1	nCEtr:  21900
+  e+ e- ---> pi0 pi0 pi0 K_L0 K+ K- p+ anti-p-
+
+rowNo:  93	iDcyIFSts:  6	nEtr:  1	nCEtr:  21901
+  e+ e- ---> pi0 pi+ pi+ pi- pi- gamma
+
+rowNo:  94	iDcyIFSts:  93	nEtr:  1	nCEtr:  21902
+  e+ e- ---> pi0 pi+ pi- p+ anti-p- gamma gamma
+
+rowNo:  95	iDcyIFSts:  60	nEtr:  1	nCEtr:  21903
+  e+ e- ---> pi0 pi0 K_L0 pi+ pi- p+ anti-p-
+
+rowNo:  96	iDcyIFSts:  95	nEtr:  1	nCEtr:  21904
+  e+ e- ---> pi0 pi0 pi0 pi+ pi- p+ anti-p-
+
+rowNo:  97	iDcyIFSts:  96	nEtr:  1	nCEtr:  21905
+  e+ e- ---> pi0 pi0 pi+ pi- pi- K+ gamma
+
+rowNo:  98	iDcyIFSts:  97	nEtr:  1	nCEtr:  21906
+  e+ e- ---> pi0 K_L0 pi+ pi- pi- K+ gamma gamma
+
+rowNo:  99	iDcyIFSts:  46	nEtr:  1	nCEtr:  21907
+  e+ e- ---> mu+ nu_mu pi- pi- K+ K+ K-
+
+rowNo:  100	iDcyIFSts:  99	nEtr:  1	nCEtr:  21908
+  e+ e- ---> pi0 pi0 pi0 pi+ pi+ pi- K- gamma
+
+rowNo:  rest	iDcyIFSts:  ---	nEtr:  23	nCEtr:  21931
+  e+ e- ---> others (23 in total)
+
